@@ -31,7 +31,7 @@ body {
 .button-container {
   display: block;
   background: #e3f4ff;
-  text-align: center;
+  text-align: center; 
   padding: 10px;
 }
 
